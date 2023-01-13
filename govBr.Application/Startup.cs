@@ -1,3 +1,5 @@
+using Autofac;
+using govBr.CrossCutting.IoC;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -32,8 +34,13 @@ namespace govBr.Application
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "govBr.Application", Version = "v1" });
             });
+            services.AddSingleton<IConfiguration>(Configuration);
         }
-
+        //Instruções da injeção de dependência
+        public void ConfigureContainer(ContainerBuilder containerBuilder)
+        {
+            containerBuilder.RegisterModule(new ModuleIoC());
+        }
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {

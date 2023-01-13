@@ -1,0 +1,15 @@
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\bin\Debug\net5.0\govBr.CrossCutting.deps.json
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\bin\Debug\net5.0\govBr.CrossCutting.dll
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\bin\Debug\net5.0\govBr.CrossCutting.pdb
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\bin\Debug\net5.0\govBr.Infra.dll
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\bin\Debug\net5.0\govBr.Infra.pdb
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.AssemblyInfo.cs
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.csproj.CopyComplete
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.dll
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\obj\Debug\net5.0\refint\govBr.CrossCutting.dll
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.pdb
+C:\Users\ljlcjunior\source\repos\govBr\govBr.CrossCutting\obj\Debug\net5.0\ref\govBr.CrossCutting.dll
