@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ljlcjunior\\source\\repos\\govBr\\govBr.Infra\\govBr.Infra.csproj": {}
+    "C:\\Users\\rcsantos1\\Documents\\repositorios\\govBrAPI\\govBr.Infra\\govBr.Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ljlcjunior\\source\\repos\\govBr\\govBr.Infra\\govBr.Infra.csproj": {
+    "C:\\Users\\rcsantos1\\Documents\\repositorios\\govBrAPI\\govBr.Infra\\govBr.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ljlcjunior\\source\\repos\\govBr\\govBr.Infra\\govBr.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\rcsantos1\\Documents\\repositorios\\govBrAPI\\govBr.Infra\\govBr.Infra.csproj",
         "projectName": "govBr.Infra",
-        "projectPath": "C:\\Users\\ljlcjunior\\source\\repos\\govBr\\govBr.Infra\\govBr.Infra.csproj",
-        "packagesPath": "C:\\Users\\ljlcjunior\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ljlcjunior\\source\\repos\\govBr\\govBr.Infra\\obj\\",
+        "projectPath": "C:\\Users\\rcsantos1\\Documents\\repositorios\\govBrAPI\\govBr.Infra\\govBr.Infra.csproj",
+        "packagesPath": "C:\\Users\\rcsantos1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rcsantos1\\Documents\\repositorios\\govBrAPI\\govBr.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ljlcjunior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rcsantos1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -55,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

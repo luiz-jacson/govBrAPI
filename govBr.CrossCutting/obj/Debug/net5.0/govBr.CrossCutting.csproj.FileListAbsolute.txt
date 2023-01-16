@@ -1,0 +1,15 @@
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\bin\Debug\net5.0\govBr.CrossCutting.deps.json
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\bin\Debug\net5.0\govBr.CrossCutting.dll
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\bin\Debug\net5.0\govBr.CrossCutting.pdb
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\bin\Debug\net5.0\govBr.Infra.dll
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\bin\Debug\net5.0\govBr.Infra.pdb
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.AssemblyInfo.cs
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.csproj.CopyComplete
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.dll
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\obj\Debug\net5.0\refint\govBr.CrossCutting.dll
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\obj\Debug\net5.0\govBr.CrossCutting.pdb
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.CrossCutting\obj\Debug\net5.0\ref\govBr.CrossCutting.dll

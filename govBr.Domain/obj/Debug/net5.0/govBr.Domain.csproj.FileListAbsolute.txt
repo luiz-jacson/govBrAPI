@@ -1,0 +1,12 @@
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.Domain\bin\Debug\net5.0\govBr.Domain.deps.json
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.Domain\bin\Debug\net5.0\govBr.Domain.dll
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.Domain\bin\Debug\net5.0\govBr.Domain.pdb
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.Domain\obj\Debug\net5.0\govBr.Domain.csproj.AssemblyReference.cache
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.Domain\obj\Debug\net5.0\govBr.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.Domain\obj\Debug\net5.0\govBr.Domain.AssemblyInfoInputs.cache
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.Domain\obj\Debug\net5.0\govBr.Domain.AssemblyInfo.cs
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.Domain\obj\Debug\net5.0\govBr.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.Domain\obj\Debug\net5.0\govBr.Domain.dll
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.Domain\obj\Debug\net5.0\refint\govBr.Domain.dll
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.Domain\obj\Debug\net5.0\govBr.Domain.pdb
+C:\Users\rcsantos1\Documents\repositorios\govBrAPI\govBr.Domain\obj\Debug\net5.0\ref\govBr.Domain.dll

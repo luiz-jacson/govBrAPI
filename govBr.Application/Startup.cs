@@ -1,16 +1,11 @@
+using Autofac;
+using govBr.CrossCutting.IoC;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace govBr.Application
 {
@@ -33,7 +28,11 @@ namespace govBr.Application
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "govBr.Application", Version = "v1" });
             });
         }
-
+        // CONFIGURAÇÃO DO AUTOFAC PARA DEPENDENCY INJECTION
+        public void ConfigureContainer(ContainerBuilder containerBuilder)
+        {
+            containerBuilder.RegisterModule(new ModuleIoC());
+        }
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {

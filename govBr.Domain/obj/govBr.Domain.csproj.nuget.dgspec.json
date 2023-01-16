@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ljlcjunior\\source\\repos\\govBr\\govBr.Domain\\govBr.Domain.csproj": {}
+    "C:\\Users\\rcsantos1\\Documents\\repositorios\\govBrAPI\\govBr.Domain\\govBr.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ljlcjunior\\source\\repos\\govBr\\govBr.Domain\\govBr.Domain.csproj": {
+    "C:\\Users\\rcsantos1\\Documents\\repositorios\\govBrAPI\\govBr.Domain\\govBr.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ljlcjunior\\source\\repos\\govBr\\govBr.Domain\\govBr.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\rcsantos1\\Documents\\repositorios\\govBrAPI\\govBr.Domain\\govBr.Domain.csproj",
         "projectName": "govBr.Domain",
-        "projectPath": "C:\\Users\\ljlcjunior\\source\\repos\\govBr\\govBr.Domain\\govBr.Domain.csproj",
-        "packagesPath": "C:\\Users\\ljlcjunior\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ljlcjunior\\source\\repos\\govBr\\govBr.Domain\\obj\\",
+        "projectPath": "C:\\Users\\rcsantos1\\Documents\\repositorios\\govBrAPI\\govBr.Domain\\govBr.Domain.csproj",
+        "packagesPath": "C:\\Users\\rcsantos1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rcsantos1\\Documents\\repositorios\\govBrAPI\\govBr.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ljlcjunior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rcsantos1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YXXvYCApAIb+nc6nTLcOWv58VnhLUzUFSDdlvX8vpFsH9QfnlN2eX0n6WTdhzULTxro9YVnEel3Ir25ILJjpvw==",
+  "dgSpecHash": "X2WCg5dcwiIh4a2jplkslCogbFRp9Z3y7X4q+RrnEVDWDcv5I/5fmIo1A/roR2BIvWqyPFS0t3NiGswrKBkfIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ljlcjunior\\source\\repos\\govBr\\govBr.Infra\\govBr.Infra.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\rcsantos1\\Documents\\repositorios\\govBrAPI\\govBr.Infra\\govBr.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rcsantos1\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\rcsantos1\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\rcsantos1\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\rcsantos1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

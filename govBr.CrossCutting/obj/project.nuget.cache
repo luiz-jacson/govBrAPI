@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "m+2yQQ9EdjhkQsEGryUvYCrO+Hu0QceZTVhOtcThCypcHUtSS+n+lrrRBM9JWp4yzcPgaEy9ExkF1zWtCoh1lw==",
+  "dgSpecHash": "0iJ07WYh+p3xWz4ANfWxbZAxmFPH7yTgaaTJqfJNl7Eq8gMW0LRP2VtFusG0ob52LxbHkysiqAjIyKAVowPk9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ljlcjunior\\source\\repos\\govBr\\govBr.CrossCutting\\govBr.CrossCutting.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\rcsantos1\\Documents\\repositorios\\govBrAPI\\govBr.CrossCutting\\govBr.CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rcsantos1\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
+    "C:\\Users\\rcsantos1\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\rcsantos1\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\rcsantos1\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\rcsantos1\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\rcsantos1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
